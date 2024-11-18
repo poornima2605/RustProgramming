@@ -1,0 +1,1 @@
+/Users/poornimakaushik/Documents/Rust\ crash\ course/ultimate_rust_crash_course/functions/target/debug/functions: /Users/poornimakaushik/Documents/Rust\ crash\ course/ultimate_rust_crash_course/functions/src/main.rs
