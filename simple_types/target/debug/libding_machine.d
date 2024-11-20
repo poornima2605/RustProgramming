@@ -1,0 +1,1 @@
+/Users/poornimakaushik/Documents/Rust\ crash\ course/Rust_programming/exercise/c_simple_types/target/debug/libding_machine.rlib: /Users/poornimakaushik/Documents/Rust\ crash\ course/Rust_programming/exercise/c_simple_types/src/lib.rs
