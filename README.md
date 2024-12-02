@@ -41,6 +41,12 @@ Below is a list of all exercises included in this repository:
 3. **Functions and Sope**  
    Understanding primitive scope of functions and type annotations.
 
+4. **Simple data types**  
+
+5. **Control flow strings**
+
+6. **References and Ownership**
+
 
 Each file is named according to the exercise it contains, and comments are added to explain the implementation details.
 
