@@ -46,6 +46,8 @@ Below is a list of all exercises included in this repository:
 5. **Control flow strings**
 
 6. **References and Ownership**
+7. Structs
+8. enum
 
 
 Each file is named according to the exercise it contains, and comments are added to explain the implementation details.
